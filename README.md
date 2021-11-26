@@ -2,6 +2,18 @@
 
 <!--
 **Vanshikasharma620/Vanshikasharma620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vanshika-sharma-298942205" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Vanshika8548?t=GB06cf3yr_4OTTWppNkv1w&s=08" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="mailto:Sharmavanshika620@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
+  
+</p> 
 
 Here are some ideas to get you started:
 
@@ -10,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: sharmavanshika620@gmail.com
+- 📫 How to reach me: Sharmavanshika620@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
