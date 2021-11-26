@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me: Sharmavanshika620@gmail.com
 - <a href = "https://drive.google.com/file/d/19TVe2vYChm6j1FPRzC9ZxF8QmwMdMKyR/view?usp=drivesdk">Click here to see my Resume</a>
--
+
 
