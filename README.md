@@ -11,9 +11,7 @@
   <a href="mailto:Sharmavanshika620@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
-    <a href="https://instagram.com/vanshika8548?utm_medium=copy_link" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="twitter" />
-  </a>
+  
 
 
   
