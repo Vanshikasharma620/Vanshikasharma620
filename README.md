@@ -1,7 +1,6 @@
 ### Hi👋, I'm Vanshika Sharma
 
-<!--
-**Vanshikasharma620/Vanshikasharma620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vanshika-sharma-298942205" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -25,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Sharmavanshika620@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
