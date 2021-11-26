@@ -16,9 +16,9 @@
 
 ## 🙋‍♀️ About Me
 
-- 🔭 I’m currently working on Mern Stack Skills
+- 🔭 I’m currently working on MERN Stack Skills
 - 🌱 I’m currently learning Backend Technologies in Javascript
-- 👯 I’m looking to collaborate on OpenSource Projects
+- 👯 I’m looking to collaborate on MERN Stack Projects and OpenSource Projects
 - 📫 How to reach me: Sharmavanshika620@gmail.com
 - <a href = "https://drive.google.com/file/d/19TVe2vYChm6j1FPRzC9ZxF8QmwMdMKyR/view?usp=drivesdk">Click here to see my Resume</a>
 
