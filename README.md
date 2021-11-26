@@ -1,4 +1,4 @@
-### Hi👋, I'm Vanshika Sharma
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vanshika Sharma</h1>
 
 
 <p align="center">
@@ -13,8 +13,8 @@
   </a>
   
 </p> 
-🙋‍♀️ About Me 
-<hr>
+🙋‍♀️ About Me
+
 
 - 🔭 I’m currently working on Mern Stack Skills
 - 🌱 I’m currently learning Backend Technologies in Javascript
